@@ -8,4 +8,4 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css" /> </p>
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Halima&theme=react-dark&hide_border=true"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0FFFC1,100:7A5CFA&height=140&section=footer"/> </p>
