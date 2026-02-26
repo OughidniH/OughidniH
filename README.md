@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D001A,50:7F00FF,100:FF4ECD&text=⚡%20Welcome%20To%20My%20Dev%20Universe%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=800&color=FF4ECD&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Halima Oughidni;Senior+Software+Engineer;React+%2B+Node.js+Architect;PHP+%2F+PrestaShop+Expert;Elegant+Code+%7C+Elite+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2800&pause=800&color=FF4ECD&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Halima+Oughidni;Senior+Software+Engineer;React+%2B+Node.js+Architect;PHP+%2F+PrestaShop+Expert;Elegant+Code+%7C+Elite+Performance" />
 
 </div>
 
