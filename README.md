@@ -45,9 +45,8 @@
 ---
 
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="750"/>
+<img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="750"/>
 </div>
-
 ---
 
 # 📊 Performance Matrix
