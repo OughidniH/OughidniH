@@ -64,3 +64,12 @@ class SeniorEngineer {
     this.standard = "Elite";
   }
 }
+📊 Performance Analytics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D001A&title_color=FF4ECD&icon_color=FF4ECD&text_color=FFFFFF"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D001A&title_color=FF4ECD&text_color=FFFFFF"/> </div>
+🌌 Live Activity Matrix
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D001A&color=FF4ECD&line=7F00FF&point=FFFFFF&hide_border=true"/> </div>
+<div align="center"> <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="800"/> </div>
+🌐 Executive Network
+<div align="center"> <a href="https://linkedin.com/in/YOUR_LINK"> <img src="https://img.shields.io/badge/LinkedIn-FF4ECD?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:YOUR_EMAIL"> <img src="https://img.shields.io/badge/Contact-7F00FF?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,50:7f00ff,100:1a001f&height=160&section=footer"/> </div> ```
+
