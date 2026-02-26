@@ -6,3 +6,6 @@
 🧠 Tech Universe
 🎨 Frontend
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css" /> </p>
+
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Halima&theme=react-dark&hide_border=true"/> </p>
