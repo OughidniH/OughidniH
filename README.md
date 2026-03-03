@@ -71,8 +71,8 @@ Passionate about web development and software design, I build modern application
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OughidniH&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OughidniH&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Halima Oughidni&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Halima Oughidni&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
 </p>
 
 ---
