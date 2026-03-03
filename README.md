@@ -81,7 +81,7 @@ Passionate about web development and software design, I build modern application
   <a href="mailto:halimaoughidni92@gmail.com">
     <img src="https://img.shields.io/badge/Email-F78DA7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/HalimaOughidni">
+  <a href="https://github.com/OughidniH">
     <img src="https://img.shields.io/badge/GitHub-F78DA7?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
