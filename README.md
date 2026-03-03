@@ -13,7 +13,7 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
 
 I am a **Full Stack Junior Developer** and a future **Software Engineer**, currently pursuing an Engineering degree in Computer Science at **Polytechnique Sousse**.
