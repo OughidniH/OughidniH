@@ -1,13 +1,11 @@
-
-<!-- 🌸 Sakura Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">🌸 Welcome to My Sakura Realm 🌸</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=22&duration=3000&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Full+Stack+Junior+Developer;Future+Software+Engineer;Elegant+Code+%E2%9C%A8+Clean+Architecture;Building+Modern+Web+Experiences" />
+</p>
+
+<p align="center">
+  <i>"Discover My Digital World"</i>
 </p>
 
 ---
@@ -18,28 +16,89 @@
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="250"/>
 </p>
 
-Développeuse **Full Stack Junior** et future **Ingénieure en Génie Logiciel**, actuellement étudiante en cycle d’ingénierie en Informatique à Polytechnique Sousse.  
+I am a **Full Stack Junior Developer** and a future **Software Engineer**, currently pursuing an Engineering degree in Computer Science at **Polytechnique Sousse**.
 
-Passionnée par le développement web et la conception logicielle, je construis des applications modernes en utilisant **React, Node.js et MongoDB**, avec une attention particulière portée à l’architecture propre, la performance et l’expérience utilisateur.  
+Passionate about web development and software design, I build modern applications using **React, Node.js, and MongoDB**, with strong attention to:
 
-🌷 J’aime transformer des idées en solutions digitales fonctionnelles.  
-🌷 Je travaille avec rigueur, curiosité et esprit d’équipe.  
-🌷 Mon objectif est d’évoluer dans un environnement innovant où je peux contribuer et progresser continuellement.  
+✨ Clean Architecture  
+✨ Performance Optimization  
+✨ Scalable Backend Systems  
+✨ Elegant & User-Friendly Interfaces  
 
----
-
-### 🌸 Stack principale
-
-`HTML` • `CSS` • `JavaScript` • `TypeScript`  
-`React` • `Node.js` • `Express`  
-`MongoDB` • `MySQL`
+🌷 I transform ideas into functional digital solutions.  
+🌷 I work with discipline, curiosity, and team spirit.  
+🌷 My goal is to grow in an innovative environment where I can continuously learn and contribute.  
 
 ---
 
-# 💻 Tech Stack
+# 🌸 Core Stack
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26xBukhI6X1W4R0eA/giphy.gif" width="200"/>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,java,python,git,github" />
+
 </p>
 
-<!-- Garde tous tes badges ici -->
+---
+
+# 💻 Tech Expertise
+
+### 🎨 Frontend
+- React.js  
+- Redux  
+- Responsive Design  
+- Tailwind CSS / Bootstrap  
+- Modern JavaScript (ES6+)  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- REST APIs  
+- Authentication & Routing  
+
+### 🗄️ Databases
+- MongoDB  
+- MySQL  
+
+### 🛠️ Tools & Workflow
+- Git & GitHub  
+- Jira  
+- Figma  
+- Agile Methodology  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HalimaOughidni&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalimaOughidni&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+---
+
+# 🌺 Currently Growing In
+
+- Advanced Software Architecture  
+- TypeScript Best Practices  
+- Backend Scalability  
+- System Design Fundamentals  
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:halimaoughidni92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F78DA7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/HalimaOughidni">
+    <img src="https://img.shields.io/badge/GitHub-F78DA7?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🌸 Crafting elegant code, one commit at a time 🌸
+</p>
