@@ -8,10 +8,6 @@
 
 # 💫 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</p>
-
 I am a **Full Stack Junior Developer** and a future **Software Engineer**, currently pursuing an Engineering degree in Computer Science at **Polytechnique Sousse**.
 
 Passionate about web development and software design, I build modern applications using **React, Node.js, and MongoDB**, with strong attention to:
@@ -20,7 +16,9 @@ Passionate about web development and software design, I build modern application
 ✨ Performance Optimization  
 ✨ Scalable Backend Systems  
 ✨ Elegant & User-Friendly Interfaces  
-
+<p align="left">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</p>
 🌷 I transform ideas into functional digital solutions.  
 🌷 I work with discipline, curiosity, and team spirit.  
 🌷 My goal is to grow in an innovative environment where I can continuously learn and contribute.  
